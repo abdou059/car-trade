@@ -1,3 +1,3 @@
 # car-trade
-demo:https://car-trede.onrender.com/
+demo: https://car-trade-client.vercel.app/cars
 
